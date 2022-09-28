@@ -67,7 +67,7 @@
 
 ## 🕵 Security
 * [Ronin Network - $624M hack](https://rekt.news/ronin-rekt/)  
-* [Poly Netowrk - $611M hack](https://rekt.news/polynetwork-rekt/)  
+* [Poly Network - $611M hack](https://rekt.news/polynetwork-rekt/)  
 * [Wormhole - $326M hack](https://rekt.news/wormhole-rekt/)  
 * [Nomad - $190M hack](https://rekt.news/nomad-rekt/)  
 * [Harmony Bridge - $100M hack](https://rekt.news/harmony-rekt/)  
