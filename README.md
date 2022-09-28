@@ -20,6 +20,7 @@
 * [DefiLlama](https://defillama.com/protocols/Bridge)  
 * [Etherscan (addresses)](https://etherscan.io/accounts/label/bridge)  
 * [thedapplist](https://thedapplist.com/explore?q=&orderBy=Popularity&t=projects&category=62e030fb4ebdf11f23a4c633)
+* [Twitter List: Bridges](https://twitter.com/i/lists/1510467024363069441)
 
 ## 🌉 Projects
 ### ➕ Aggregators
@@ -63,6 +64,15 @@
 * [The tradeoffs of cross-chain communication](https://ls.mirror.xyz/5FM0KUurAEkN7yDXLAI8i9kCha_yMlzguVqiHEGMjPU)  
 * [What's wrong with bridges?](https://antiape.substack.com/p/whats-wrong-with-bridges-and-whats)  
 * [With Bridges, Trust is a Spectrum](https://blog.li.fi/li-fi-with-bridges-trust-is-a-spectrum-354cd5a1a6d8)	
+
+## 🕵 Security
+[Ronin Network - $624M hack](https://rekt.news/ronin-rekt/)  
+[Poly Netowrk - $611M hack](https://rekt.news/polynetwork-rekt/)  
+[Wormhole - $326M hack](https://rekt.news/wormhole-rekt/)  
+[Nomad - $190M hack](https://rekt.news/nomad-rekt/)  
+[Harmony Bridge - $100M hack](https://rekt.news/harmony-rekt/)  
+[Optimism - $2M bounty](https://www.saurik.com/optimism.html)  
+[Arbitrum - 400ETH bounty](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)  
 
 ## 🗣 Discussion
 * [EIP-5164: Cross-Chain Execution](https://ethereum-magicians.org/t/eip-5164-cross-chain-execution/9658)  
