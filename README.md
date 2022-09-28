@@ -67,6 +67,7 @@
 ## 🗣 Discussion
 * [EIP-5164: Cross-Chain Execution](https://ethereum-magicians.org/t/eip-5164-cross-chain-execution/9658)  
 * [L2Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31)  
+* [Vitalik Buterin: "Why the future will be multi-chain, but it will not be cross-chain."](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)  
 
 ## 🧱️ Curation
 * [Awesome Interoperability](https://docs.nomad.xyz/resources/awesome-interoperability)  
