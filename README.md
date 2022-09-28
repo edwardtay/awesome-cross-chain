@@ -34,7 +34,7 @@
 * [Via](https://via.exchange/)  
 
 ### ⚪️ Generic Messaging Protocols
-* [Aexelar](https://axelar.network/)  
+* [Axelar](https://axelar.network/)  
 * [Celer](https://www.celer.network)  
 * [Connext](https://connext.network)  
 * [deBridge](https://debridge.finance/)  
@@ -66,13 +66,13 @@
 * [With Bridges, Trust is a Spectrum](https://blog.li.fi/li-fi-with-bridges-trust-is-a-spectrum-354cd5a1a6d8)	
 
 ## 🕵 Security
-[Ronin Network - $624M hack](https://rekt.news/ronin-rekt/)  
-[Poly Netowrk - $611M hack](https://rekt.news/polynetwork-rekt/)  
-[Wormhole - $326M hack](https://rekt.news/wormhole-rekt/)  
-[Nomad - $190M hack](https://rekt.news/nomad-rekt/)  
-[Harmony Bridge - $100M hack](https://rekt.news/harmony-rekt/)  
-[Optimism - $2M bounty](https://www.saurik.com/optimism.html)  
-[Arbitrum - 400ETH bounty](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)  
+* [Ronin Network - $624M hack](https://rekt.news/ronin-rekt/)  
+* [Poly Netowrk - $611M hack](https://rekt.news/polynetwork-rekt/)  
+* [Wormhole - $326M hack](https://rekt.news/wormhole-rekt/)  
+* [Nomad - $190M hack](https://rekt.news/nomad-rekt/)  
+* [Harmony Bridge - $100M hack](https://rekt.news/harmony-rekt/)  
+* [Optimism - $2M bounty](https://www.saurik.com/optimism.html)  
+* [Arbitrum - 400ETH bounty](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)  
 
 ## 🗣 Discussion
 * [EIP-5164: Cross-Chain Execution](https://ethereum-magicians.org/t/eip-5164-cross-chain-execution/9658)  
