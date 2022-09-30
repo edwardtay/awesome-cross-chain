@@ -71,6 +71,7 @@
 * [Wormhole - $326M hack](https://rekt.news/wormhole-rekt/)  
 * [Nomad - $190M hack](https://rekt.news/nomad-rekt/)  
 * [Harmony Bridge - $100M hack](https://rekt.news/harmony-rekt/)  
+* [Aurora - $2M bounty](https://medium.com/immunefi/aurora-improper-input-sanitization-bugfix-review-a9376dac046f)  
 * [Optimism - $2M bounty](https://www.saurik.com/optimism.html)  
 * [Arbitrum - 400ETH bounty](https://medium.com/@0xriptide/hackers-in-arbitrums-inbox-ca23272641a2)  
 
