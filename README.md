@@ -1,11 +1,12 @@
-# <div align="center"> Awesome Cross-Chain </div>
-# <div align="center">[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)</div>
-### <div align="center"> A curated list of awesome cross-chain resources, libraries, tools, projects, guides etc </div>
+# Awesome Cross-Chain [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+> A curated list of awesome cross-chain resources, libraries, tools, projects, guides etc 
 
 ![web3 interoperability](https://user-images.githubusercontent.com/4763902/192700586-a2ffcf5c-a237-4066-b95c-48260bea4427.png)
 
+Contributing: Please read the [Contributing guide](./CONTRIBUTING.md).
 
 -----
+
 ## Contents
 * [Analytics](https://github.com/edwardtay/awesome-cross-chain#-analytics)
 * [Lists](https://github.com/edwardtay/awesome-cross-chain#-lists)
