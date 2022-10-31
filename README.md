@@ -7,11 +7,12 @@
 
 -----
 ## Contents
-* [Analytics](#analytics)
+* [Analytics](https://github.com/edwardtay/awesome-cross-chain#-analytics)
 * [Lists](#lists)
 * [Projects](#projects)
     * [Bridge Aggregators](#bridge-aggregators)
-    * [Generic Messaging](#generic-messaging )
+    * [Generic Messaging](#generic-messaging)
+    * [NFT Bridges](#nft-bridges)
     
 ## 📊 Analytics
 * [Dune](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))  
