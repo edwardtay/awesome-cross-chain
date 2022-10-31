@@ -3,7 +3,7 @@
 
 ![web3 interoperability](https://user-images.githubusercontent.com/4763902/192700586-a2ffcf5c-a237-4066-b95c-48260bea4427.png)
 
-Cross-chain protocols permits data sharing across many blockchain networks and streamlines interoperability between various blockchain networks. Users can communicate with one another directly using the cross-chain protocol. As a result, blockchains with comparable networks can exchange value and information.
+Cross-chain protocols permits data sharing across many blockchain networks and streamlines interoperability between various blockchain networks. Web3 users can communicate with one another directly using cross-chain infrastructure. As a result, blockchains with comparable networks can exchange value and information.
 
 Contributing: Please read the [Contributing guide](./CONTRIBUTING.md).
 
