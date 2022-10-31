@@ -6,7 +6,13 @@
 
 
 -----
-
+## Contents
+* [Analytics](#analytics)
+* [Lists](#lists)
+* [Projects](#projects)
+    * [Bridge Aggregators](#bridge-aggregators)
+    * [Generic Messaging](#generic-messaging )
+    
 ## 📊 Analytics
 * [Dune](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))  
 * [Etherscan](https://bi.etherscan.io/public/dashboards/Z6PuB2HTLK4tGOCtrYvP65seYXGWfLea76mknRu6)  
@@ -24,7 +30,7 @@
 * [Twitter List: Bridges](https://twitter.com/i/lists/1510467024363069441)
 
 ## 🌉 Projects
-### ➕ Aggregators
+### ➕ Bridge Aggregators
 * [BoringDAO](https://www.boringdao.com/)  
 * [Bungee](https://www.bungee.exchange/)  
 * [Chainswap](https://chainswap.com)  
@@ -34,7 +40,7 @@
 * [Rubic](https://rubic.exchange)   
 * [Via](https://via.exchange/)  
 
-### ⚪️ Generic Messaging Protocols
+### ⚪️ Generic Messaging 
 * [Axelar](https://axelar.network/)  
 * [Celer](https://www.celer.network)  
 * [Connext](https://connext.network)  
@@ -58,7 +64,6 @@
 * [Bridging the World of Blockchains](https://www.deltafund.io/post/bridging-blockchains)  
 * [Build {on} bridges, not [behind] walls](https://ath.mirror.xyz/Y2XBh3HRu5B0S3qw974txvIv0JDz7Tu-yIKVTes7DUU)  
 * [Cross-Consensus Message Format (XCM)](https://wiki.polkadot.network/docs/learn-xcm)  
-* [LayerZero: Trustless Omnichain Interoperability Protocol](https://layerzero.network/pdf/LayerZero_Whitepaper_Release.pdf)  
 * [Secure The Bridge: Cross-Chain Communication Done Right](https://medium.com/dragonfly-research/secure-the-bridge-cross-chain-communication-done-right-part-i-993f76ffed5d)  
 * [The Interblockchain Communication Protocol: An Overview](https://arxiv.org/pdf/2006.15918.pdf)  
 * [The Interoperability Trilemma](https://medium.com/connext/the-interoperability-trilemma-657c2cf69f17)  
