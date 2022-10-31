@@ -1,4 +1,4 @@
-# <div align="center"> Awesome Cross-Chain 🔗🔀🔗 </div>
+# <div align="center"> Awesome Cross-Chain </div>
 # <div align="center">[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)</div>
 ### <div align="center"> A curated list of awesome cross-chain resources, libraries, tools, projects, guides etc </div>
 
@@ -8,11 +8,16 @@
 -----
 ## Contents
 * [Analytics](https://github.com/edwardtay/awesome-cross-chain#-analytics)
-* [Lists](#lists)
+* [Lists](https://github.com/edwardtay/awesome-cross-chain#-analytics#-lists)
 * [Projects](#projects)
     * [Bridge Aggregators](#bridge-aggregators)
     * [Generic Messaging](#generic-messaging)
     * [NFT Bridges](#nft-bridges)
+* [Articles, Papers](#lists)    
+* [Security](
+* [Discussion](    
+* [Related]    
+    
     
 ## 📊 Analytics
 * [Dune](https://dune.com/eliasimos/Bridge-Away-(from-Ethereum))  
@@ -87,5 +92,5 @@
 * [L2Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31)  
 * [Vitalik Buterin: "Why the future will be multi-chain, but it will not be cross-chain."](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)  
 
-## 🧱️ Curation
+## 🧱️ Related
 * [Awesome Interoperability](https://docs.nomad.xyz/resources/awesome-interoperability)  
