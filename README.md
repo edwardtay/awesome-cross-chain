@@ -8,15 +8,15 @@
 -----
 ## Contents
 * [Analytics](https://github.com/edwardtay/awesome-cross-chain#-analytics)
-* [Lists](https://github.com/edwardtay/awesome-cross-chain#-analytics#-lists)
-* [Projects](#projects)
-    * [Bridge Aggregators](#bridge-aggregators)
-    * [Generic Messaging](#generic-messaging)
-    * [NFT Bridges](#nft-bridges)
-* [Articles, Papers](#lists)    
-* [Security](
-* [Discussion](    
-* [Related]    
+* [Lists](https://github.com/edwardtay/awesome-cross-chain#-lists)
+* [Projects](https://github.com/edwardtay/awesome-cross-chain#-projects)
+    * [Bridge Aggregators](https://github.com/edwardtay/awesome-cross-chain#-bridge-aggregators)
+    * [Generic Messaging](https://github.com/edwardtay/awesome-cross-chain#-generic-messaging)
+    * [NFT Bridges](https://github.com/edwardtay/awesome-cross-chain#-nft-bridges)
+* [Articles, Papers](https://github.com/edwardtay/awesome-cross-chain#-articles-papers)    
+* [Security](https://github.com/edwardtay/awesome-cross-chain#-security)
+* [Discussion](https://github.com/edwardtay/awesome-cross-chain#-discussion)    
+* [Related](https://github.com/edwardtay/awesome-cross-chain#-related)    
     
     
 ## 📊 Analytics
