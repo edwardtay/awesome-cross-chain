@@ -35,6 +35,7 @@ Contributing: Please read the [Contributing guide](./CONTRIBUTING.md).
 * [DeBridges](https://debridges.com)  
 * [DefiLlama](https://defillama.com/protocols/Bridge)  
 * [Etherscan (addresses)](https://etherscan.io/accounts/label/bridge)  
+* [Find My Bridge](https://www.findmybridge.com)
 * [thedapplist](https://thedapplist.com/explore?q=&orderBy=Popularity&t=projects&category=62e030fb4ebdf11f23a4c633)
 * [Twitter List: Bridges](https://twitter.com/i/lists/1510467024363069441)
 
