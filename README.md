@@ -80,6 +80,7 @@ Contributing: Please read the [Contributing guide](./CONTRIBUTING.md).
 * [The tradeoffs of cross-chain communication](https://ls.mirror.xyz/5FM0KUurAEkN7yDXLAI8i9kCha_yMlzguVqiHEGMjPU)  
 * [What's wrong with bridges?](https://antiape.substack.com/p/whats-wrong-with-bridges-and-whats)  
 * [With Bridges, Trust is a Spectrum](https://blog.li.fi/li-fi-with-bridges-trust-is-a-spectrum-354cd5a1a6d8)	
+* [Trustess Automation with Decentralized Database](https://polybase.xyz/blog/trustless-automation-decentralized-database)	
 
 ## 🕵 Security
 * [Ronin Network - $624M hack](https://rekt.news/ronin-rekt/)  
